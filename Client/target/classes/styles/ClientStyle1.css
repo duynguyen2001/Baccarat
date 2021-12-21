@@ -1,0 +1,22 @@
+.button{
+	-fx-background-color: #ff4949; 
+	-fx-background-insets: 0; 
+	-fx-background-radius: 30;
+}
+
+.vbox{
+	-fx-alignment: center; 
+	-fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.8), 10, 0, 0, 0);
+
+}
+.textfield{
+	-fx-background-color: white; 
+	-fx-background-position: center; 
+}
+.border{
+	-fx-background-color: green;
+	-fx-background-insets: 10 10 10 10;
+	-fx-pref-height: 700; 
+	-fx-pref-width: 700;
+	
+}
